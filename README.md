@@ -1,13 +1,13 @@
 # project-Makao
 
 **Sadržaj**
-  *Makao – pravila Igre	
-  *Opis	
-  *Deljenje	
-  *Igra	
-  *Jake karte	
-  *Bodovanje	
-  *Zahtevi	
+  - Makao – pravila Igre	
+  * Opis	
+  - Deljenje	
+  - Igra	
+  - Jake karte	
+  - Bodovanje	
+  - Zahtevi	
   
 **Makao – pravila Igre**
 > Opis
@@ -59,18 +59,18 @@
 
           Opis                                                                                           Rok za predaju
 
-*Faza 1 
+Faza 1 
 
           Implementirati minimalno Alfa-Beta algoritam. Potraga kreće pozivom metode BeginBestMove.      30.11.2018. 23:59
           Najbolji potez mora bti smešten u properti BestMove. Pretraga se završava pozivom metode 
           EndBestMove. Ove metode ne pozivate lokalno, njih isključivo poziva eksterni sistem.
 
-*Faza 2 
+Faza 2 
 
           Unapređenje algoritma pretrage, upotreba Transpozicionih tabela i sl.                          30.12.2018. 23:59
           VERZIJA IZ FAZE 2 JE ZVANICNA VERZIJA KOJA CE SE TAKMICITI.
           
-*Faza 3 
+Faza 3 
 
           Grafički interfejs za igru jednog igrača i računara.                                           13.01.2019. 23:59
           
