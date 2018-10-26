@@ -1,13 +1,13 @@
 # project-Makao
 
 **Sadržaj**
-  - Makao – pravila Igre	
-  * Opis	
-  - Deljenje	
-  - Igra	
-  - Jake karte	
-  - Bodovanje	
-  - Zahtevi	
+  1. Makao – pravila Igre	
+  2. Opis	
+  3. Deljenje	
+  4. Igra	
+  5. Jake karte	
+  6. Bodovanje	
+  7. Zahtevi	
   
 **Makao – pravila Igre**
 > Opis
@@ -25,13 +25,13 @@
 > Jake karte
 
   Jake karte su sledeće:
-  *kečevi
-  *mala dvojka (dvojka tref)
-  *dvojka karo
-  *sedmice
-  *osmice
-  *žandari (pubovi)
-  *dame
+  - kečevi
+  - mala dvojka (dvojka tref)
+  - dvojka karo
+  - sedmice
+  - osmice
+  - žandari (pubovi)
+  - dame
   
 **Kec** - kada igač izbaci keca ima pravo (mora) da izbaci još jenu odgovarajuću kartu. Ako je ta karta opet kec postupak je isti. Ukoliko igrač po izbacivanju keca kod sebe nema odgovarajuću kartu kojom bi opet odigrao mora da povuče jednu sa špila i ukoliko je ona odgovarajuća može (ne mora ako taktizira) da je baci. Ukoliko ni ona nije odgovarajuća (ili jeste ali igrač taktizira) dužan je da kaže 'Dalje' i sledeći igrač je na potezu.
 
