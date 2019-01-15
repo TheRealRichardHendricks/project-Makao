@@ -77,3 +77,19 @@ Faza 3
 Npr. 12345.exe ili 12345.dll**
 
 Za vise informacija idi na [Katedru za racunarstvo](https://cs.elfak.ni.ac.rs/nastava/course/view.php?id=110)
+
+
+
+
+
+
+
+![Screenshot](./makao1.jpg)
+
+![Screenshot](./makao5.jpg)
+
+![Screenshot](./makao2.jpg)
+
+![Screenshot](./makao3.jpg)
+
+![Screenshot](./makao4.jpg)
